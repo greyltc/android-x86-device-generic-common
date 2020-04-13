@@ -1,2 +1,3 @@
-cursor.orientationAware = 1
-device.internal = 0
+touch.deviceType = touchScreen
+touch.gestureMode = spots
+device.internal = 1
